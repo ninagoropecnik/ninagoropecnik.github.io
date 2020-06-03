@@ -1,0 +1,79 @@
+a {
+	color: black !important;
+}
+
+a:hover {
+	background-color: white !important;
+	color: black !important;
+}
+
+.terminal-menu li a:not(.btn) {
+	color: var(--secondary-color) !important;
+}
+
+.terminal-menu li a:not(.btn):hover {
+	color: black !important;
+}
+
+::selection {
+	background: white !important;
+}
+
+.terminal-prompt::after {
+	animation: none !important;
+	background: none !important;
+}
+
+@media (min-width: 767px) {
+	/* only img in posts - add white edge around */
+	/* not used in small screens */
+	.image-box img{  
+		max-width: 70%;
+	}
+	
+	.image-box {
+		text-align: center;
+	}
+}
+
+@media (max-width: 767px) {
+	.no-phone {
+		display: none !important;
+		visibility: hidden !important;
+	}
+	.stranskimeni {
+		width: 100% !important;
+	}
+}
+
+img {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.stranskimeni {
+	width: 250px;
+	margin-right: 35px;
+	padding-top: 20px;
+    float:left; /* add this */
+}
+
+.stranskimeni div {
+	margin-bottom: 15px;
+}
+
+.stranskimeni a {
+	color: var(--secondary-color) !important;
+}
+
+.stranskimeni a:hover {
+	color: black !important;
+}
+
+.postdiv {
+    overflow: hidden; /* if you don't want #second to wrap below #first */
+}
+
+a.selected {
+	color: black !important;
+}
