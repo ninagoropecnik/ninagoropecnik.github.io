@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Photos on Pita Project</title>
-    <link>https://ninagoropecnik.github.io/razstave/</link>
+    <link>https://pita-project.com/razstave/</link>
     <description>Recent content in Photos on Pita Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 26 May 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://ninagoropecnik.github.io/razstave/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pita-project.com/razstave/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Galerija Kiparskega oddelka Akademije za likovno umetnost</title>
-      <link>https://ninagoropecnik.github.io/razstave/galerija-kiparskega-oddelka-akademije-za-likovno-umetnost-in/</link>
+      <link>https://pita-project.com/razstave/galerija-kiparskega-oddelka-akademije-za-likovno-umetnost-in/</link>
       <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ninagoropecnik.github.io/razstave/galerija-kiparskega-oddelka-akademije-za-likovno-umetnost-in/</guid>
+      <guid>https://pita-project.com/razstave/galerija-kiparskega-oddelka-akademije-za-likovno-umetnost-in/</guid>
       <description>Grajenje notranjosti kocke. Vrata, tablica in še nedokončana notranjost</description>
     </item>
     
     <item>
       <title>White Cube</title>
-      <link>https://ninagoropecnik.github.io/razstave/white-cube/</link>
+      <link>https://pita-project.com/razstave/white-cube/</link>
       <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ninagoropecnik.github.io/razstave/white-cube/</guid>
+      <guid>https://pita-project.com/razstave/white-cube/</guid>
       <description>Grajenje White Cube. Torej zunanjosti.</description>
     </item>
     
