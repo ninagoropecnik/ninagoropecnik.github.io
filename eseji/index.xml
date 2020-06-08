@@ -2,40 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Pita Project</title>
-    <link>https://pita-project.com/eseji/</link>
+    <link>https://ninagoropecnik.github.io/eseji/</link>
     <description>Recent content in Posts on Pita Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://pita-project.com/eseji/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ninagoropecnik.github.io/eseji/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Premestitev iz fizičnega prostora na splet</title>
-      <link>https://pita-project.com/eseji/premestitev-iz-fizi%C4%8Dnega-prostora-na-splet/</link>
-      <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
+      <title>Esej2 - Opis projekta</title>
+      <link>https://ninagoropecnik.github.io/eseji/opis-projekta/</link>
+      <pubDate>Sun, 07 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://pita-project.com/eseji/premestitev-iz-fizi%C4%8Dnega-prostora-na-splet/</guid>
-      <description>&lt;p&gt;Zakaj sva se midve odločili za uspostavitev spletne strani.&lt;/p&gt;</description>
+      <guid>https://ninagoropecnik.github.io/eseji/opis-projekta/</guid>
+      <description>Pita project je platforma namenjena razstavljanju in raziskovanju lastne prakse skozi grajenje razstavnega prostora. Gre za prostor, ki obstaja znotraj institucije in prostor, ki skozi virtualno platformo izstopi iz danega konstrukta.
+Fizični del sestoji iz dveh belih kvadratnih ploskev, ki sta vpeti v kot prostora in tvorita iluzijo 2,5 metra visoke kocke. Zgrajena forma spremeni tloris prostora in znotraj le tega z minimalnim posegom dobi dve dodatni steni, ki na drugi strani oblikujeta galerijski prostor.</description>
     </item>
     
     <item>
-      <title>Razstava na spletu</title>
-      <link>https://pita-project.com/eseji/razstava-na-spletu/</link>
-      <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://pita-project.com/eseji/razstava-na-spletu/</guid>
-      <description>&lt;p&gt;Tekst o premestitvi razstave na internet. Na splošno in v konteksu najne premestitve na splet in v kontekstu ALUO razstave.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Predlog projekta</title>
-      <link>https://pita-project.com/eseji/predlog-projekta/</link>
+      <title>Esej1 - Predlog projekta</title>
+      <link>https://ninagoropecnik.github.io/eseji/predlog-projekta/</link>
       <pubDate>Sun, 26 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://pita-project.com/eseji/predlog-projekta/</guid>
-      <description></description>
+      <guid>https://ninagoropecnik.github.io/eseji/predlog-projekta/</guid>
+      <description>STATEMENT
+We started a project in December 2019 in Academy of Fine Arts and Design Ljubljana, Slovenia. We build a small student run gallery inside a studio. Our starting point was to construct a space that attempts to preserve more than one property (possibly in conflict) of the original space. It works as a critique on the fact that our academy does not have their own gallery. So we would like to expand the project to different surroundings, territory, location, and try to explore and play with our concept in other situations/layers.</description>
     </item>
     
   </channel>
