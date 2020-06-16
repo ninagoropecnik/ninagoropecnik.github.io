@@ -31,15 +31,6 @@ Fizični del sestoji iz dveh belih kvadratnih ploskev, ki sta vpeti v kot prosto
     </item>
     
     <item>
-      <title>White Cube</title>
-      <link>https://ninagoropecnik.github.io/razstave/white-cube/</link>
-      <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://ninagoropecnik.github.io/razstave/white-cube/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Esej1 - Predlog projekta</title>
       <link>https://ninagoropecnik.github.io/eseji/predlog-projekta/</link>
       <pubDate>Sun, 26 Jan 2020 00:00:00 +0000</pubDate>
@@ -50,14 +41,31 @@ We started a project in December 2019 in Academy of Fine Arts and Design Ljublja
     </item>
     
     <item>
+      <title>White Cube</title>
+      <link>https://ninagoropecnik.github.io/razstave/white-cube/</link>
+      <pubDate>Fri, 24 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ninagoropecnik.github.io/razstave/white-cube/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Kaj je Pita Project</title>
       <link>https://ninagoropecnik.github.io/_default/</link>
       <pubDate>Sat, 05 Nov 2016 21:05:33 +0530</pubDate>
       
       <guid>https://ninagoropecnik.github.io/_default/</guid>
-      <description>Link do Instagrama tega projekta:
-Nina Instagram
-Rea instagram</description>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ninagoropecnik.github.io/footer/footer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ninagoropecnik.github.io/footer/footer/</guid>
+      <description>@pita_project_250
+Zahvale: Nika Erjavec, Primož Godec, Aja Vogrinčič, Luka Zorc</description>
     </item>
     
   </channel>

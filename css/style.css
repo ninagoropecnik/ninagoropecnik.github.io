@@ -1,10 +1,15 @@
 a {
 	color: black !important;
+	text-decoration: underline;
 }
 
 a:hover {
 	background-color: white !important;
 	color: black !important;
+}
+
+.terminal-nav a {
+	text-decoration: none;
 }
 
 .terminal-menu li a:not(.btn) {
@@ -17,6 +22,7 @@ a:hover {
 
 ::selection {
 	background: white !important;
+	color: var(--primary-color) !important;
 }
 
 .terminal-prompt::after {
@@ -26,11 +32,7 @@ a:hover {
 
 @media (min-width: 767px) {
 	/* only img in posts - add white edge around */
-	/* not used in small screens */
-	.image-box img{  
-		max-width: 70%;
-	}
-	
+	/* not used in small screens */	
 	.image-box {
 		text-align: center;
 	}
@@ -43,6 +45,10 @@ a:hover {
 	}
 	.stranskimeni {
 		width: 100% !important;
+	}
+
+	.image-box img{  
+		max-width: 100% !important;
 	}
 }
 
@@ -64,6 +70,7 @@ img {
 
 .stranskimeni a {
 	color: var(--secondary-color) !important;
+	text-decoration: none;
 }
 
 .stranskimeni a:hover {
