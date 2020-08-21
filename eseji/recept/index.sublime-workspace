@@ -1,0 +1,201 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/C/Users/Nina/stran/stran/config.toml",
+		"/C/Users/Nina/stran/stran/content/Prva stran/bla bla",
+		"/C/Users/Nina/stran/stran/content/Prva stran/config.sublime-workspace",
+		"/C/Users/Nina/pita_project/content/_index.md",
+		"/C/Users/Nina/pita_project.zip",
+		"/C/Users/Nina/stran/stran/themes/hugo-cards-master/exampleSite/content/pages/contact.md",
+		"/C/Users/Nina/pita_project/content/eseji/Opis projekta/index.md",
+		"/C/Users/Nina/pita_project/.gitmodules",
+		"/C/Users/Nina/pita_project/content/footer/footer.md",
+		"/C/Users/Nina/pita_project/content/razstave/Galerija kiparskega oddelka ALUO UL/index.md",
+		"/C/Users/Nina/pita_project/content/razstave/White Cube/index.md",
+		"/C/Users/Nina/pita_project/content/_default/index.md",
+		"/C/Users/Nina/pita_project/content/eseji/Predlog projekta/index.md",
+		"/C/Users/Nina/pita_project/content/eseji/Premestitev iz fizičnega prostora na splet/index.md",
+		"/C/Users/Nina/pita_project/content/razstave/Galerija kiparskega oddelka Akademije za likovno umetnost Univerze v Ljubljani/index.md",
+		"/C/Users/Nina/pita_project/content/razstave/Talin/index.md",
+		"/C/Users/Nina/pita_project/content/_default/Photos/gif-white-cube.gif",
+		"/C/Users/Nina/pita_project/content/photos/White Cube/index.md",
+		"/C/Users/Nina/pita_project/content/about/index.md",
+		"/C/Users/Nina/pita_project/content/photos/Galerija kiparskega oddelka Akademije za likovno umetnost Univerze v Ljubljani/index.md",
+		"/C/Users/Nina/pita_project/config.toml",
+		"/C/Users/Nina/pita_project/content/posts/introduction/index.md",
+		"/C/Users/Nina/pita_project/content/posts/what-is-hugo/index.md",
+		"/C/Users/Nina/pita_project/content/photos/_index.md",
+		"/C/Users/Nina/pita_project/content/photos/Grajenje spletne strani/index.md",
+		"/C/Users/Nina/pita_project/content/photos/panaji-india-2/index.md",
+		"/C/Users/Nina/pita_project/.gitignore",
+		"/C/Users/Nina/pita_project/content/posts/_index.md",
+		"/C/Users/Nina/pita_project/content/photos/warsaw-poland/index.md",
+		"/C/Users/Nina/pita_project/content/photos/arizona-us/index.md",
+		"/C/Users/Nina/pita_project/content/photos/chicago-us/index.md",
+		"/C/Users/Nina/Pictures/slike del/White Cube/IMG_20200107_160607.jpg",
+		"/C/Users/Nina/Pictures/Videoprojekti/skica 1.png",
+		"/C/Users/Nina/pita_project/content/photos/arizona-us/arizona-us.jpg"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 236.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
