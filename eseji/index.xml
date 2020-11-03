@@ -6,7 +6,11 @@
     <description>Recent content in Posts on Pita Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://ninagoropecnik.github.io/eseji/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 11 Oct 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://ninagoropecnik.github.io/eseji/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Esej3 - Potek performansa</title>
       <link>https://ninagoropecnik.github.io/eseji/potek-performansa/</link>
@@ -42,16 +46,16 @@ Medtem ko testo počiva v hladilniku pripravimo nadev.</description>
       <pubDate>Sun, 07 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://ninagoropecnik.github.io/eseji/opis-projekta/</guid>
-      <description>Pita project je platforma namenjena razstavljanju in raziskovanju lastne prakse skozi grajenje razstavnega prostora. Gre za prostor, ki obstaja znotraj institucije ALUO in prostor, ki skozi virtualno platformo izstopi iz danega konstrukta.
+      <description>Pita Projekt je platforma namenjena razstavljanju in raziskovanju lastne prakse skozi grajenje razstavnega prostora. Gre za prostor, ki obstaja znotraj institucije ALUO in prostor, ki skozi virtualno platformo izstopi iz danega konstrukta.
 Fizični del sestoji iz dveh belih kvadratnih ploskev, ki sta vpeti v kot kiparskega ateljeja in tvorita iluzijo 2,5 metra visoke kocke. Zgrajena forma spremeni tloris prostora in znotraj le tega z minimalnim posegom dobi dve dodatni steni, ki na drugi strani oblikujeta galerijski prostor.</description>
     </item>
     
     <item>
-      <title>Esej1 - Predlog projekta</title>
-      <link>https://ninagoropecnik.github.io/eseji/predlog-projekta/</link>
+      <title>Esej1 - Project Proposal</title>
+      <link>https://ninagoropecnik.github.io/eseji/project-proposal/</link>
       <pubDate>Sun, 26 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ninagoropecnik.github.io/eseji/predlog-projekta/</guid>
+      <guid>https://ninagoropecnik.github.io/eseji/project-proposal/</guid>
       <description>STATEMENT
 We started a project in December 2019 in Academy of Fine Arts and Design Ljubljana, Slovenia. We build a small student run gallery inside a studio. Our starting point was to construct a space that attempts to preserve more than one property (possibly in conflict) of the original space. It works as a critique on the fact that our academy does not have their own gallery. So we would like to expand the project to different surroundings, territory, location, and try to explore and play with our concept in other situations/layers.</description>
     </item>
