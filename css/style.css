@@ -84,3 +84,7 @@ img {
 a.selected {
 	color: black !important;
 }
+
+.literature>p {
+	font-size: 13px;
+}
