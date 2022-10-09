@@ -6,38 +6,37 @@
     <description>Recent content in Photos on Pita Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Oct 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://ninagoropecnik.github.io/razstave/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Portfolio Pita Projekt</title>
+      <link>https://ninagoropecnik.github.io/razstave/portfolio-pita-project/</link>
+      <pubDate>Sun, 09 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ninagoropecnik.github.io/razstave/portfolio-pita-project/</guid>
+      <description>2021 - 1. 4. 2021 Razstava: Kaj če imava midve v resnici paviljon? Kaj pa če je zgolj kotiček? Umeznici in kuratorki: Nina Goropečnik, Rea Vogrinčič Galerija: Galerija kiparskega oddelka akademije za likovno umetnost in oblikovanje Univerze v Ljubljani, Ljubljana    Od torka, 23. 3. 2021 naprej, vabljeni na razstavo v na novo zgrajeno Galerijo Kiparskega oddelka Akademije za likovno umetnost in oblikovanje Univerze v Ljubljani. Razstava se osredotoča na dokumentacijo izgradnje in delovanja galerije.</description>
+    </item>
+    
+    <item>
       <title>Portfolio Nina Goropečnik</title>
+      <link>https://ninagoropecnik.github.io/razstave/portfolio-nina-goropecnik/</link>
+      <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ninagoropecnik.github.io/razstave/portfolio-nina-goropecnik/</guid>
+      <description>Spletna stran v delu
+ </description>
+    </item>
+    
+    <item>
+      <title>Prazna mapa</title>
       <link>https://ninagoropecnik.github.io/razstave/galerija-kiparskega-oddelka-aluo-ul/</link>
       <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
       
       <guid>https://ninagoropecnik.github.io/razstave/galerija-kiparskega-oddelka-aluo-ul/</guid>
-      <description>Spletna stran v delu
- </description>
-    </item>
-    
-    <item>
-      <title>Portfolio Nina Goropečnik</title>
-      <link>https://ninagoropecnik.github.io/razstave/portfolio-nina-gorope%C4%8Dnik/</link>
-      <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://ninagoropecnik.github.io/razstave/portfolio-nina-gorope%C4%8Dnik/</guid>
-      <description>Spletna stran v delu
- </description>
-    </item>
-    
-    <item>
-      <title>White Cube</title>
-      <link>https://ninagoropecnik.github.io/razstave/white-cube/</link>
-      <pubDate>Fri, 24 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://ninagoropecnik.github.io/razstave/white-cube/</guid>
-      <description>m</description>
+      <description></description>
     </item>
     
   </channel>
